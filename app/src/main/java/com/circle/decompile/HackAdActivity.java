@@ -8,6 +8,11 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
 
+/**
+ * 参考博客:
+ * https://blog.csdn.net/lmj623565791/article/details/53370414?spm=1001.2014.3001.5502  (鸿洋)
+ * 项目中的几个txt文档,归纳总结几个脚本命令 readme脚本.txt、打包密码.txt
+ */
 public class HackAdActivity extends AppCompatActivity {
 
     private Handler mHandler = new Handler(Looper.getMainLooper());
